@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1638761325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41b01555edb2e825a1a46a980b6c734f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3976a22b184e1551c1e7bb361a93ad37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PieceIcons/Prefabs/KingBlack.prefab
+- Assets/PieceIcons/Prefabs/QueenWhite.prefab
+- Assets/PieceIcons/Prefabs/PawnBlack.prefab
+- Assets/PieceIcons/Prefabs/KingWhite.prefab
+- Assets/PieceIcons/Prefabs/KnightBlack.prefab
+- Assets/PieceIcons/Prefabs/RookBlack.prefab
+- Assets/PieceIcons/Prefabs/RookWhite.prefab
+- Assets/PieceIcons/Prefabs/PawnWhite.prefab
+- Assets/PieceIcons/Prefabs/KnightWhite.prefab
+- Assets/PieceIcons/Prefabs/QueenBlack.prefab
+- Assets/PieceIcons/Prefabs/BishopWhite.prefab
+- Assets/PieceIcons/Prefabs/BishopBlack.prefab
+Dependencies: []

@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 280287956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5909fb7281e9ddd5260fecde020ef189
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd3a87237d84e45deb9ce6ca7b1229eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5a45281617b4fa4b833898a9df1b40f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90dee722490746c4a81fee7ee9b8eb91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d438aa4d3b7ac24792f215a9087a734, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8aadff52bc839246a0b6a82910d722f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ed91b5b79485c74481594b8813efdb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db37691c6e12a2b47a59fbb5057ad6c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c54b180fe2d9cdf4a99c2e77cb477b5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/TeamCops/King.prefab
+- Assets/Prefabs/TeamCops/Queen.prefab
+- Assets/Prefabs/TeamCops/Pawn.prefab
+- Assets/Prefabs/TeamCops/Bishop.prefab
+- Assets/Prefabs/TeamCops/Rook.prefab
+- Assets/Prefabs/TeamCops/Knight.prefab
+Dependencies:
+- C:/SharedFolder/3DChess/Assets/StreamingAssets/AssetsBundle/pieceicons

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2277572977
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: zombies
+      Dependencies: {}
+    Info_1:
+      Name: cops
+      Dependencies:
+        Dependency_0: pieceicons
+    Info_2:
+      Name: pieceicons
+      Dependencies: {}
